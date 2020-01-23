@@ -1,0 +1,6 @@
+name: Yay
+version: ${project.version}
+main: de.spamhuhn.yay.Yay
+api-version: 1.13
+authors: [spambleHD, KampfhuenchenTV]
+description: yayyy
